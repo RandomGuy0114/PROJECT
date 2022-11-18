@@ -1,11 +1,3 @@
-.navbar {
-    background-color: gray;
-    border-bottom: 1px solid black;
-    box-shadow: 0 5px 20px 0 black;
-}
-
-
-
 /* ito yung css para lagyan shadow ng name ng website yung nasa Navigator */
 .navbar-brand {
     color: black;
@@ -50,10 +42,8 @@ body {
     margin-left: .5rem;
     background-color: black;
     padding: 10px;
-    /* width: 100%;
-    height: 100%; */
     height: auto;
-        width: auto;
+    width: auto;
 }
 
 .card-body {
@@ -75,20 +65,13 @@ body {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 100px;
-    background-color: gray;
     border: 1px solid black;
     border-radius: 10px;
     height: auto;
     padding: 5%;
 }
-/* @media only screen and (min-width: 600px) {
-    .card{
-        height: auto;
-        width: auto;
-    }
-  } */
-  #logo{
-    width: auto;
-    height: 70px;
-  }
 
+#logo {
+    width: 80px;
+    height: 50px;
+}
