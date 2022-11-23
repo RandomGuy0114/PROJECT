@@ -82,32 +82,4 @@ body {
     border-radius: 100%;
 }
 
-.signUp:hover {
-    background-color: #0d6efd;
-    color: #d8e8fe;
-}
 
-@media only screen and (max-width: 767px) {
-    /* .signUp{
-        width: 8em;
-        margin-left: 590%;   
-    }
-    .signIn{
-        width: 8em;
-        margin-left: 600%;
-        color: #d8e8fe;
-    } */
-    .signUp,.signIn {
-      width:50px ;
-    }
-  }
-
-.signUp,.signIn {
-    margin-right: 5px;
-    margin-left: 5px;
-    width: 100%;
-}
-
-/* .signInsignUp {
-    margin-left: 60vw;
-}  */
